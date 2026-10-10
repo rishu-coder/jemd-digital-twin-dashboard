@@ -1,8 +1,6 @@
 # JEMD Digital Twin Research Dashboard
 
-A polished, responsive portfolio demonstrator for a simulation-led industrial chimney design workflow. It maps the advertised KTP themes into an interactive digital-twin interface: parametric geometry, FEM evidence, Eurocode-oriented verification, DOE/AI optimisation, traceable run records, and stage-gate project control.
-
-> **Important:** This is an independent portfolio demonstrator, not an official University of Derby, James Engineering, or JEMD product. All values are simulated and simplified. It is not suitable for engineering design, certification, or compliance decisions.
+A digital twin, responsive tool for a simulation-led industrial chimney design workflow. It maps the parametric geometry, FEM evidence, Eurocode-oriented verification, DOE/AI optimisation, traceable run records, and stage-gate project control into an interactive digital-twin interface. 
 
 ## Features
 
@@ -74,7 +72,6 @@ A production implementation should add authenticated APIs, a units library, sche
 
 ## References
 
-- University of Derby vacancy 0280-26, FEM, Design & AI/ML Optimisation Engineer (KTP Associate)
 - European Commission JRC Eurocodes portal, EN 1993 family
 - BS EN 1993-3-2:2006, Towers, masts and chimneys — Chimneys
 
